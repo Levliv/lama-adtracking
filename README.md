@@ -1,6 +1,6 @@
 # lama-adtracking
 
-# TalkingData AdTracking Fraud Detection Challenge
+# [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/competitions/talkingdata-adtracking-fraud-detection/overview)
 
 ## Описание задачи
 
@@ -185,6 +185,7 @@ TIMEOUT = 600   # секунд
 
 **Результат:** ROC AUC = 0.9619 (приватный) ← **лучший результат**
 
+![Результат](figures/kaggle.png)
 **GPU ускорение:**
 ```python
 'tree_method': 'gpu_hist'  # Обучение на видеокарте
